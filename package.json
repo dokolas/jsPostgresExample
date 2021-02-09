@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "fulltable": "node fullTable.js",
+    "asyncfulltable": "node asyncFullTable.js"
   },
   "author": "",
   "license": "ISC",
